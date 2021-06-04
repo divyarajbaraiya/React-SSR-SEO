@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## add these npm packages
+1. yarn add @babel/preset-env @babel/preset-react @babel/register ignore-styles
+2. load babel (server/index.js)
+
 ## Available Scripts
 
 In the project directory, you can run:
